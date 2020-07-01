@@ -6,7 +6,7 @@ I'm Jon Phenow! I live in my favorite city (Minneapolis, MN) with my wife Steph,
 
 ## 🔭 I’m currently working on
 
-I come from App Center @ Microsoft. I recently worked with the GitHub Packages folks for a brief stint and now I'm really excited to be heading over to help with some Core GitHub projects.
+I recently worked with the GitHub Packages folks for a brief stint and now I'm really excited to be heading over to help with some Core GitHub projects as well has help maintain App Center from Microsoft.
 
 ## 🌱 I’m currently learning
 
