@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I'm Jon Phenow! I live in my favorite city (Minneapolis, MN) with my wife Steph, our cat Gus, and our dog Nova. When I'm not Software Engineering I play hockey, go to the cabin ([Up North](https://www.youtube.com/watch?v=8OT684hsC7U)), play video games, watching soccer among arguably too many other things.
+I'm Jon Phenow! I live in my favorite city (Minneapolis, MN) with my wife Steph, our dog Nova, and our cat Gus. When I'm not Software Engineering I play hockey, go to the cabin ([Up North](https://www.youtube.com/watch?v=8OT684hsC7U)), play video games, watching soccer among arguably too many other things.
+
+![](./jon-steph.jpeg) ![](./nova.jpeg) ![](./gus.jpeg)
 
 ## 🔭 I’m currently working on
 
