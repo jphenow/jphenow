@@ -1,30 +1,42 @@
 # Hi there 👋
 
-I'm Jon Phenow! I live in my favorite city (Minneapolis, MN) with my wife Steph, our dog Nova, and our cat Gus. When I'm not Software Engineering I'm playing hockey, biking, hanging out at the family cabin, playing video games, watching soccer, among arguably too many other things.
+I live in my favorite 🏙 Minneapolis, MN with my wife Steph, our dog Nova, and our cat Gus.
 
 ![](https://github.com/jphenow/jphenow/raw/master/jon-steph.png) ![](https://github.com/jphenow/jphenow/raw/master/nova.png) ![](https://github.com/jphenow/jphenow/raw/master/gus.png)
 
+When I'm not Software Engineering 👨🏻‍💻 I'm usually working on side-projects, playing 🏒, 🚴🏻‍♂️, 🎮, watching ⚽️.
+
 ## 🔭 I’m currently working on
 
-I recently worked with the GitHub Packages folks for a brief stint and now I'm really excited to be heading over to help with some Core GitHub projects as well as help maintain App Center from Microsoft.
+I recently worked with the GitHub Packages folks for a brief stint and now I'm really excited to be heading over to help with some Core GitHub projects.
 
 ## 🌱 I’m currently learning
 
-* More about GitHub
-* Relearning some about Go
-* Starting some side-projects from scratch with .NET Core
+* More about GitHub internals
+* Rust when time allows
 * [Modern Monetary Theory](https://www.amazon.com/Deficit-Myth-Monetary-Peoples-Economy/dp/1541736184)
 
 ## 💬 Ask me about
 
+### Software
+
+* Distributed Systems
+* Ruby
+* Rails
+* Go
+* .NET Core
+* Typescript
+* React
+* Databases
+
+### Otherwise
+
 * Minnesota
 * Hockey
-* Minnesota United F.C. or Tottenham Hotspur F.C.
-
-## 📫 How to reach me
-
-* [Twitter](https://twitter.com/jphenow)
-* Just about anything as `jphenow`
+* Beer
+* `/whisk[e]?y/`
+* Minnesota United F.C.
+* Tottenham Hotspur F.C.
 
 ## 😄 Pronouns
 
