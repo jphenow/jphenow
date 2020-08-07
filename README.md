@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I live in my favorite 🏙 Minneapolis, MN with my wife Steph, our dog Nova, and our cat Gus.
+I live in my favorite 🏙 Minneapolis, MN with my wife 👩🏻 Steph, our 🐕 Nova, and our cat 😼 Gus.
 
 ![](https://github.com/jphenow/jphenow/raw/master/jon-steph.png) ![](https://github.com/jphenow/jphenow/raw/master/nova.png) ![](https://github.com/jphenow/jphenow/raw/master/gus.png)
 
